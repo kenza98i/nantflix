@@ -21,10 +21,10 @@ sans touché a l'identifiant qui s'incremente seule
 --------------------------------------page des series --------------------------------------
 
 une fois la connexion etalbie l'utilisateur est dirigé vers une page ou l'on affiche son profil 
-trois choix s'offrent a lui soit il affiche directement les séries qui a sur la plateforme 
-ou il pourra les visionner 
-soit effectuer une recherche avec  l'intitulé de la série recherchée
-soit se déconnecter ce qui le renvoie sur la page de connexion
+trois choix s'offrent a lui: soit il affiche directement les séries qui a sur la plateforme 
+ou il pourra les visionner et la soit il reprend la lecture directement du prochain episode soit il reprend dés le début (extraction de dernier episode regardé a partir de la base ).
+Soit effectuer une recherche avec  l'intitulé de la série recherchée.
+Soit se déconnecter ce qui le renvoie sur la page de connexion.
 
 
 
