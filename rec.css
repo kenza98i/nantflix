@@ -1,0 +1,20 @@
+h1{
+text-align:center;
+font-weight:bold;
+box-shadow: 5px 5px 20px black;
+background :#008080 ;
+border-radius:50% 50%;
+color:#F0FFFF;
+}
+body{
+background-image: url("photo.jpg") ;
+background-size: contain;
+background-attachment: fixed;
+max-width:100%;
+height: auto;
+}
+table,th,tr,td{
+border : 2px solid black;
+border-collapse: collapse;
+text-align:center;
+}

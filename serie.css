@@ -1,0 +1,39 @@
+h1{
+font-variant:small-caps;
+font-weight:bold;
+color:black;
+
+}
+td,th,td { 
+border : solid;
+text-align:center;
+}
+#i{
+font-weight:bold;
+font-weight:bold;
+color:black;
+position:relative;
+text-align:center;
+font-size:18px;
+text-align:center;
+top:20%;
+
+}
+table {
+width : 50%;
+margin : auto;
+padding-top : 5cm;
+border : solid;
+border-collapse : collapse;
+}
+body{
+background-image: url("photo.jpg") ;
+background-size: contain;
+background-attachment: fixed;
+max-width:100%;
+height: auto;
+}
+
+
+
+
